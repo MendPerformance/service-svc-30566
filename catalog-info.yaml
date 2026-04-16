@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-svc-30566
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/service-svc-30566
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
